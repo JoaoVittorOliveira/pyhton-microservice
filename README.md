@@ -50,8 +50,6 @@ microservice_python/
 ## 🐳 docker-compose.yml
 
 ```yaml
-version: '3.8'
-
 services:
   service1:
     build: ./service1
